@@ -10,7 +10,7 @@ import com.google.gson.Gson;
 
 public class App 
 {	
-	private static final String WEATHER_API_ID = "6a8b5565aa9486a84e7633c406c0ecbc";	
+	private static final String WEATHER_API_ID = "Enter you api id here";	
 	static BufferedReader br;
 	
     public static void main( String[] args )
